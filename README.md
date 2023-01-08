@@ -1,14 +1,14 @@
-<h1 align="left">Hi 👋, I'm Zia</h1>
+<h1 align="left">Hi, I'm Zia</h1>
 <h3 align="left">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on [ztype](https://github.com/ziadevcom/ztype)
+- I’m currently working on [ztype](https://github.com/ziadevcom/ztype)
 
-- 🌱 I’m currently exploring **React**
+- I’m currently exploring **React**
 
-- 👨‍💻 All of my projects are available right here on my [@ziadevcom](https://github.com/ziadevcom)
-- 📽️ I **live stream coding sessions** at [https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg](https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg)
+- All of my projects are available right here on my [@ziadevcom](https://github.com/ziadevcom)
+- I **live stream coding sessions** at [https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg](https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg)
 
-- 📫 How to reach me **ziaalich2@gmail.com**
+- How to reach me **ziaalich2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
