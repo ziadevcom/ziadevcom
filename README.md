@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **React**
 
-- 👨‍💻 All of my projects are available right here on my github
+- 👨‍💻 All of my projects are available right here on my [@ziadevcom](https://github.com/ziadevcom)
 - 📽️ I **live stream coding sessions** at [https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg](https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg)
 
 - 📫 How to reach me **ziaalich2@gmail.com**
