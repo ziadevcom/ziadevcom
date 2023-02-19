@@ -8,7 +8,7 @@
 - All of my projects are available right here on my [@ziadevcom](https://github.com/ziadevcom)
 - I **sometimes live stream coding sessions** at [https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg](https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg)
 
-- Reach me at **me@ziadev.com**
+- Reach me at **<a href="mailto:me@ziadev.com">me@ziadev.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
