@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Zia 👋</h1>
 <h3 align="left">A passionate computer science student</h3>
 
-- I’m currently working on [ztype](https://github.com/ziadevcom/ztype) **\*Update:** *It's Finished*
+- I’m currently working on [YTSP](https://github.com/ziadevcom/yt_sp)
 
 - I’m currently studying Async JS
 
