@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Zia 👋</h1>
 <h3 align="left">A passionate computer science student</h3>
 
-- I’m currently working on [YTSP](https://github.com/ziadevcom/yt_sp) *Finished*
+- I’m currently working on [WavesTube](https://github.com/ziadevcom/wavestube)
 
-- I’m currently studying **React**
+- I’m currently studying **React & NextJS**
 
 - All of my projects are available right here on my github: [@ziadevcom](https://github.com/ziadevcom)
 - I **sometimes live stream coding sessions** at [https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg](https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg)
