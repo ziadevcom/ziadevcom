@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Zia 👋</h1>
 <h3 align="left">A passionate computer science student</h3>
 
-- I’m currently working on [WavesTube](https://github.com/ziadevcom/wavestube)
+- I’m currently working on [Blogger](https://github.com/ziadevcom/blogger)
 
 - I’m currently studying **React & NextJS**
 
