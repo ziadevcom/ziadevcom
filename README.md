@@ -1,9 +1,7 @@
 <h1 align="left">Hi, I'm Zia 👋</h1>
 <h3 align="left">A passionate computer science student</h3>
 
-- I’m currently working on [Blogger](https://github.com/ziadevcom/blogger)
-
-- I’m currently studying **React & NextJS**
+- I’m currently studying [Networking]([https://github.com/ziadevcom/blogger](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/))
 
 - All of my projects are available right here on my github: [@ziadevcom](https://github.com/ziadevcom)
 - I **sometimes live stream coding sessions** at [https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg](https://www.youtube.com/channel/UCJOxMcyceoa_UmksHzejFIg)
