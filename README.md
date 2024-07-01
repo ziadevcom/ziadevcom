@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Zia 👋</h1>
 <h3 align="left">A passionate computer science student</h3>
 
-- I’m currently studying [High School Math](https://khanacademy.org/math)
+- I’m currently learning about operating systems. 
 
 - All of my projects are available right here on my github: [@ziadevcom](https://github.com/ziadevcom)
 
