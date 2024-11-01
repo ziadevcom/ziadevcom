@@ -5,6 +5,6 @@
 
 - All of my projects are available right here on my github: [@ziadevcom](https://github.com/ziadevcom)
 
-- Reach me at **<a href="mailto:me@ziadev.com">me@ziadev.com</a>**
+- Reach me at **<a href="mailto:me@ziaahmad">me@ziaahmad.com</a>**
 
 
